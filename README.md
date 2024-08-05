@@ -1,4 +1,8 @@
-<h1 align="center" style="font-size: 3em;">[The Titanic Competition](https://www.kaggle.com/competitions/titanic)</h1>
+<h1 align="center">
+  <a href="https://www.kaggle.com/competitions/titanic">
+    The Titanic Competition
+  </a>
+</h1>
 
 Here's the data dictionary though
 
@@ -20,4 +24,3 @@ Here's the data dictionary though
 
 > [!NOTE] >[titanic.ipynb](https://github.com/buidai123/titanic_comp/blob/f1911f361ea6408fc319e59895135a6b8bf27a2e/titanic.ipynb): building NN from scratch,
 > [titanic_impv.ipynb](https://github.com/buidai123/titanic_comp/blob/f1911f361ea6408fc319e59895135a6b8bf27a2e/titanic_impv.ipynb): the improve version(higher score)
-
