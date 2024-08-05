@@ -22,5 +22,7 @@ Here's the data dictionary though
 > [!IMPORTANT]
 > Y'all might want to checkout my [Sink or Swim: Navigating Deep Learning with the Titanic Competition](https://buidai123.github.io/blog/posts/titanic_competition/) blog post which is about my experience with the titanic competition
 
-> [!NOTE] > [titanic.ipynb](https://github.com/buidai123/titanic_comp/blob/f1911f361ea6408fc319e59895135a6b8bf27a2e/titanic.ipynb): building NN from scratch,
+> [!NOTE]
+> Note that
+> [titanic.ipynb](https://github.com/buidai123/titanic_comp/blob/f1911f361ea6408fc319e59895135a6b8bf27a2e/titanic.ipynb): building NN from scratch,
 > [titanic_impv.ipynb](https://github.com/buidai123/titanic_comp/blob/f1911f361ea6408fc319e59895135a6b8bf27a2e/titanic_impv.ipynb): the improve version(higher score)
